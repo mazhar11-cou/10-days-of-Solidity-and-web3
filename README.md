@@ -31,7 +31,7 @@
   </ol>
 </details>
 
-| <p align="center"> [Day 1](../10_days_of_solidity/Day1/Day1.md) </p> |
+| <p align="center"> [Day 1](https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day1/Day1.md) </p> |
 | -------------------------------------------------------------------- |
 | **Intro to Web3**                                                    |
 | - What is Web3                                                       |
