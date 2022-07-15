@@ -31,12 +31,12 @@
   </ol>
 </details>
 
-| <p align="center"> [Day 1](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer/blob/main/Day01/Day01.md) </p> |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| **Intro to Web3**                                                                                                           |
-| - What is Web3                                                                                                              |
-| - Web1 = read                                                                                                               |
-| - Web2 - read, write                                                                                                        |
-| - Web3 - read, write, own                                                                                                   |
-| - Now, what are blockchains?                                                                                                |
-| - What isn’t blockchain                                                                                                     |
+| <p align="center"> [Day 1](../10_days_of_solidity/Day1/Day1.md) </p> |
+| -------------------------------------------------------------------- |
+| **Intro to Web3**                                                    |
+| - What is Web3                                                       |
+| - Web1 = read                                                        |
+| - Web2 - read, write                                                 |
+| - Web3 - read, write, own                                            |
+| - Now, what are blockchains?                                         |
+| - What isn’t blockchain                                              |
