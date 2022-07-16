@@ -1,4 +1,4 @@
-#Day 2: Intro to Blockchain Theory and Consensus Mechanism
+# Day 2: Intro to Blockchain Theory and Consensus Mechanism
 ## What is a Blockchain?
 
 Everyone is talking about cryptocurrencies, blockchain, NFTs, Bitcoin, Ethereum, Shiba INU, etc. All these topics have become trendy, and there's a lot of information about them on the internet. But, what does it mean? Why is everyone talking about them? What makes them so demanding and popular?

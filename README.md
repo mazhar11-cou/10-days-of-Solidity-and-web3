@@ -1,11 +1,11 @@
 # 10 days of solidity and web3
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Day 1. Intro to Web3</a>
+      <a href="https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day1/Day1.md">Day 1. Intro to Web3</a>
     </li>
     <li>
       <a href="#getting-started">Day 2: Intro to Blockchain Theory and Consensus Mechanism</a>
@@ -29,14 +29,24 @@
 </a></li>
 
   </ol>
-</details>
+
 
 | <p align="center"> [Day 1](https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day1/Day1.md) </p> |
-| -------------------------------------------------------------------- |
-| **Intro to Web3**                                                    |
-| - What is Web3                                                       |
-| - Web1 = read                                                        |
-| - Web2 - read, write                                                 |
-| - Web3 - read, write, own                                            |
-| - Now, what are blockchains?                                         |
-| - What isn’t blockchain                                              |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| **Intro to Web3**                                                                                                      |
+| - What is Web3                                                                                                         |
+| - Web1 = read                                                                                                          |
+| - Web2 - read, write                                                                                                   |
+| - Web3 - read, write, own                                                                                              |
+| - Now, what are blockchains?                                                                                           |
+| - What isn’t blockchain                                                                                                |
+| <p align="center"> [Day 2](https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day2/Day2.md) </p> |
+| **Intro to Blockchain Theory and Consensus Mechanism** |
+| - What is a Blockchain? Wallet Creation |
+| - What Does Blockchian means |
+| - Features of Blockchain |
+| - How does blockchain work? |
+| - What does ETH mean? |
+| - Blockchain Layers |
+| - Why do we need Layer 2? |
+| - Popular Blockchain Networks |
