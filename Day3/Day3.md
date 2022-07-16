@@ -18,14 +18,14 @@ Ethereum implements this blockchain paradigm.
 ## The Ethereum blockchain paradigm explained
 The Ethereum blockchain is essentially a transaction-based state machine. In computer science, a state machine refers to something that will read a series of inputs and, based on those inputs, will transition to a new state.
 
-![Blockchain](../day3/day3fig1.png)
+![Blockchain](./day3fig1.png)
 
 With Ethereum’s state machine, we begin with a “genesis state.” This is analogous to a blank slate before any transactions have happened on the network. When transactions are executed, this genesis state transitions into some final state. At any point in time, this final state represents the current state of Ethereum.
 
-![Blockchain](../day3/day3fig2.png)
+![Blockchain](./day3fig2.png)
 The state of Ethereum has millions of transactions. These transactions are grouped into “blocks.” A block contains a series of transactions, and each block is chained together with its previous block.
 
-![Blockchain](../day3/day3fig3.png)
+![Blockchain](./day3fig3.png)
 To cause a transition from one state to the next, a transaction must be valid. For a transaction to be considered valid, it must go through a validation process known as mining. Mining is when a group of nodes (i.e. computers) expend their compute resources to create a block of valid transactions.
 
 Any node on the network that declares itself as a miner can attempt to create and validate a block. Lots of miners from around the world try to create and validate blocks at the same time. Each miner provides a mathematical “proof” when submitting a block to the blockchain, and this proof acts as a guarantee: if the proof exists, the block must be valid.
@@ -40,11 +40,11 @@ Earlier, we defined a blockchain as a transactional singleton machine with a sha
 
 Whenever multiple paths are generated, a “fork” occurs. We typically want to avoid forks, because they disrupt the system and force people to choose which chain they “believe” in.
 
-![Blockchain](../day3/day3fig4.png)
+![Blockchain](./day3fig4.png)
 To determine which path is most valid and prevent multiple chains, Ethereum uses a mechanism called the “GHOST protocol.”
 
 ```“GHOST” = “Greedy Heaviest Observed Subtree”```
 
 In simple terms, the GHOST protocol says we must pick the path that has had the most computation done upon it. One way to determine that path is to use the block number of the most recent block (the “leaf block”), which represents the total number of blocks in the current path (not counting the genesis block). The higher the block number, the longer the path and the greater the mining effort that must have gone into arriving at the leaf. Using this reasoning allows us to agree on the canonical version of the current state.
 
-![Blockchain](../day3/day3fig5.png)
+![Blockchain](./day3fig5.png)
