@@ -8,9 +8,9 @@
       <a href="https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day1/Day1.md">Day 1. Intro to Web3</a>
     </li>
     <li>
-      <a href="#getting-started">Day 2: Intro to Blockchain Theory and Consensus Mechanism</a>
+      <a href="https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day2/Day2.md">Day 2: Intro to Blockchain Theory and Consensus Mechanism</a>
     </li>
-    <li><a href="#usage">Day 3: Intro to Ethereum and its terminologies</a></li>
+    <li><a href="https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day3/Day3.md">Day 3: Intro to Ethereum and its terminologies</a></li>
     <li><a href="#roadmap">Day 4: Writing Hello World Contract using remix
 </a></li>
     <li><a href="#contributing">Day 5: Creating your own Simple ERC-20 Contract
@@ -50,3 +50,10 @@
 | - Blockchain Layers |
 | - Why do we need Layer 2? |
 | - Popular Blockchain Networks |
+| <p align="center"> [Day 3](https://github.com/mazhar11-cou/10-days-of-Solidity-and-web3/blob/master/Day3/Day3.md) </p> |
+| **Intro to Ethereum and its terminologies** |
+| - Introduction |
+| - Blockchain Definitions|
+| - The Ethereum blockchain paradigm explained|
+| - “GHOST” = “Greedy Heaviest Observed Subtree” |
+
